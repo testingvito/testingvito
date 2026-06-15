@@ -28,3 +28,13 @@ Me especializo en el desarrollo de soluciones de software multiplataforma, con e
 ### 📬 Conectemos
 * **LinkedIn:** [in/vcarrenoc](https://linkedin.com/in/vcarrenoc)
 * **Email:** [binomicalcubo@gmail.com](mailto:binomicalcubo@gmail.com)
+
+---
+
+## ☕ Apoya el proyecto
+
+Si esta herramienta te ha sido de utilidad y deseas apoyar su desarrollo, mantenimiento o simplemente invitarme a un café para continuar mejorando este y otros proyectos de código abierto, puedes hacerlo de forma segura a través de PayPal:
+
+* [💸 Apoyar el proyecto a través de PayPal](https://www.paypal.com/paypalme/vcarreno1983)
+
+¡Cualquier apoyo es enormemente valorado! Muchas gracias.
